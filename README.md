@@ -1,62 +1,81 @@
-<h2 align="left">
-Hi 👋, I'm Harish Padmanaban
-</h2>
+<h1 align="center">Hi 👋, I'm Harish Padmanaban</h1>
 
-<p align="left">
-💼 Software Engineer<br>
-☕ Java | Spring Boot | React | MySQL<br>
-🚀 I enjoy designing robust backend systems, developing responsive frontend applications, and delivering high-quality software using Spring Boot, React, REST APIs, and relational databases.
+<h3 align="center">
+Software Engineer | Java Full Stack Developer
+</h3>
+
+<p align="center">
+Building scalable, cloud-native enterprise applications with Java, Spring Boot, React, MySQL, AWS, Docker, Kubernetes, Jenkins, Argo CD, and modern DevOps practices.
 </p>
 
-###
+<p align="center">
+  <a href="https://linkedin.com/in/harish-padmanaban-813402279">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/harishpadmanaban2005">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+<table>
+<tr>
+<td width="65%">
 
-  <img
-    src="./coding.gif"
-    alt="Coding Animation"
-    align="right"
-    width="220"
-    style="border-radius:50%; border:4px solid #58a6ff; box-shadow:0 0 20px #58a6ff;" />
+### 👨‍💻 About Me
 
-###
+- 💼 Software Engineer
+- ☕ Java Full Stack Developer
+- 🌱 Exploring Cloud, Kubernetes, and DevOps
+- 🚀 Building enterprise applications with Spring Boot & React
+- 🔐 Interested in Microservices, Security, and System Design
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+</td>
 
-###
+<td width="35%" align="center">
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<img src="./coding.gif" width="220"/>
 
-###
+</td>
+</tr>
+</table>
 
-<br clear="both">
+---
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+### 🛠️ Tech Stack
 
-###
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,aws,docker,kubernetes,jenkins,mysql,postgres,redis,git,github,postman,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="YOUR_STATS_URL"/>
+
+<img height="165" src="YOUR_LANGUAGE_URL"/>
+
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="YOUR_SNAKE_URL"/>
+
+</p>
