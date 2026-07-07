@@ -9,7 +9,12 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img
+    src="./coding.gif"
+    alt="Coding Animation"
+    align="right"
+    width="220"
+    style="border-radius:50%; border:4px solid #58a6ff; box-shadow:0 0 20px #58a6ff;" />
 
 ###
 
