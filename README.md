@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Padmanaban</h1>
 
 <h3 align="center">
-Software Engineer | Java Full Stack Developer
+Software Engineer 
 </h3>
 
 <p align="center">
