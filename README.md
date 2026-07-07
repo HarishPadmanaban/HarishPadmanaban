@@ -1,4 +1,12 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">
+Hi 👋, I'm Harish Padmanaban
+</h2>
+
+<p align="left">
+💼 Software Engineer<br>
+☕ Java | Spring Boot | React | MySQL<br>
+🚀 I enjoy designing robust backend systems, developing responsive frontend applications, and delivering high-quality software using Spring Boot, React, REST APIs, and relational databases.
+</p>
 
 ###
 
